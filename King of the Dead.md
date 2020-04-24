@@ -66,7 +66,7 @@ _Note: The Parade restocks at the end of a round. It may happen that a player at
 
 Jokers are cards that cannot be played on their own. When a single Joker appears in a Parade, the First player must take that Joker and put it on top of their Deck. If a second Joker shows up in a Parade, the second player in the round must take the Joker and place it on top of their deck, if 3 or 4 Jokers, player 3 then 4 does the same.
 
-If a Joker would be discarded, the player must remove the top card from their deck and put it in The Well, then the Joker 
+If a Joker would be discarded, the player must remove the top card from their deck and put it in The Well, then the Joker.
 
 #### Other card abilities (X of a Kind)
 
@@ -95,7 +95,7 @@ Cards can have other abilities when combined and played.
 - Red & Black Jack | Corrupt+: Look at the top three cards of your deck. Discard 1. Put the rest in your hand.
 - Red Queens | Bestir: Send any card from your deck to the well. Re-shuffle. Draw a card. (Aces are wild)
 - Black Queens | Send any card from your discard to the well. You may buy a card of the same value or less. Color restrictions do not apply. (Aces count as 1).
-- Red & Black Queen | Liturgy: Send any card from your hand or discard to The Well. Draw three cards.
+- Red & Black Queen | Liturgy+: Send any card from your hand or discard to The Well. Draw three cards.
 - Red Kings | Emendate: Shuffle The Well face-down, then draw two cards. Return The Well to it's spot face-up.
 - Black Kings | Sepulcher: Swap any card in your discard with the top card of The Well.
 - Red & Black King | Disinter+: Take the card off of the top of The Well and place it in your hand.
@@ -131,3 +131,17 @@ After The Well has been reshuffled twice and there are no more cards to fill the
 Tally the total from the face-down score. In the event of a tie, the player with fewer scored cards wins. If still tied, perform a seance and ask the dead who won.
 
 <!-- TODO Replace "deck" with "draw pile" -->
+<!-- TODO 3-4 player games should have only 2 Gate/Well Reshuffles to shorten the game. -->
+<!-- TODO Joker + Jack -> add card stolen card **to hand** -->
+<!-- TODO Joker reshuffles draw pile if empty-->
+<!-- TODO End of round, # of cards that falls into well = # of players -->
+<!-- TODO Clarification: If Single Jack to draw card results is discarding a Joker, Joker discard effect still occurs -->
+<!-- TODO Red Queens need to be more powerfuls -->
+<!-- TODO 5's buy directly to hand -->
+<!-- TODO Aces cost 1 to purchase -->
+<!-- TODO Black & Red King | Disinter+: Seek The Well take one card -->
+<!-- TODO Change 3's Power -->
+<!-- TODO Change 7's Power -->
+<!-- TODO Change 8's Power -->
+<!-- ? Starting draft -->
+<!-- ? Powers to play off Parade -->
