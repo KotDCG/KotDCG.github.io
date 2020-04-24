@@ -23,7 +23,7 @@ _Note: Cards are distinguished by color and number. Suit does not matter._
    [ Gate ] [ Face down ] [ Face up ] [ Face up ] [ Face up ] [ Face up ] [ Well ]
    ```
 
-3. Set up play areas. Each player sets up their play area by shuffling their starting cards and drawing 4. Each player should designate an area for their personal discard.
+3. Set up play areas. Each player sets up their play area by shuffling their starting cards and drawing 5. Each player should designate an area for their personal discard.
 4. Determine first player.
 
 ## Gameplay
@@ -44,7 +44,7 @@ A single Ace can count as a wild in a run provided they are the same color, repl
 
 #### Special Rule: Playing off of The Well
 
-The top card of The Well can be used to complete a run of 3 cards. For example, a player has 2, 3, and 5 in their hand. The Well has a 4 on top. The run 2 3 4 5 can be completed, and 5 is scored. The Well cannot stand in as the highest card in a run.
+The top card of The Well can be used to complete a run of 3 cards. The card on The Well can be scored.
 
 ### Buying Cards
 
