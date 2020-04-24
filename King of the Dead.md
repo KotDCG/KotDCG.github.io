@@ -72,11 +72,11 @@ If a Joker would be discarded, the player must remove the top card from their de
 
 Cards can have other abilities when combined and played.
 
-### Royal 
+### Royal Cards
 
-- Jack: 
-- Queen: 
-- King: 
+- Jack | Corrupt: Look at the top two cards of your deck. Discard 1. Put the other in your hand.
+- Queen | Liturgy: Send any card from your hand to The Well. Draw two cards.
+- King | Disinter: Take the card off of the top of The Well and place it in your hand.
 
 ### Two of a Kind powers
 
@@ -90,15 +90,15 @@ Cards can have other abilities when combined and played.
 - 8’s | Remand: Shuffle your discard pile face-down, then draw two. Return your discard pile face-up.
 - 9’s | Resurrect: Shuffle your discard into your deck. Draw three.
 - 10’s | Damn: Draw any two cards from your deck. Shuffle
-- Red Jacks | Corrupt: Look at the top two cards of your deck. Discard 1. Put the other in your hand.
+- Red Jacks | Scry: Look at the next 4 cards in your deck. Discard any. Put back in the deck in the same order.
 - Black Jacks | Foretell: Look at the top 3 cards of your deck. You may discard 1. Put remaining cards back on top in any order you choose.
-- Red & Black Jack | Scry: Look at the next 4 cards in your deck. Discard any. Put back in the same order.
-- Red Queens |  Liturgy: Send any card from your hand to The Well. Calculate the value of the card + 1. You may buy any card from the Parade which costs that amount or less. (Aces count as 1)
-- Black Queens | Send any card from your discard to the well. You may buy a card of the same value or less. (Aces count as 1).
-- Red & Black Queen | Bestir: Send any card from your deck to the well. Re-shuffle. Draw all the cards in your hand that cost the same as the card -1. (Aces are wild)
+- Red & Black Jack | Corrupt+: Look at the top three cards of your deck. Discard 1. Put the rest in your hand.
+- Red Queens | Bestir: Send any card from your deck to the well. Re-shuffle. Draw a card. (Aces are wild)
+- Black Queens | Send any card from your discard to the well. You may buy a card of the same value or less. Color restrictions do not apply. (Aces count as 1).
+- Red & Black Queen | Liturgy: Send any card from your hand or discard to The Well. Draw three cards.
 - Red Kings | Emendate: Shuffle The Well face-down, then draw two cards. Return The Well to it's spot face-up.
-- Black Kings | Disinter: Take the card off of the top of The Well and place it in your hand.
-- Red & Black King | Sepulcher: Swap any card in your discard with the top card of The Well.
+- Black Kings | Sepulcher: Swap any card in your discard with the top card of The Well.
+- Red & Black King | Disinter+: Take the card off of the top of The Well and place it in your hand.
 
 ### Three/Four of a kind (Deity Powers)
 
