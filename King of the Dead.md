@@ -129,3 +129,5 @@ After The Well has been reshuffled twice and there are no more cards to fill the
 ## Calculating Score
 
 Tally the total from the face-down score. In the event of a tie, the player with fewer scored cards wins. If still tied, perform a seance and ask the dead who won.
+
+<!-- TODO Replace "deck" with "draw pile" -->
