@@ -100,7 +100,7 @@ Some cards, or combinations of cards, grant special abilities to gain the upper 
 
 Cards can yield abilities when played together.
 
-- **Aces** | *Familiar*: Retain a card until you wish to use it. Place one Ace and another card in your hand face-up in the play area. Discard the other Ace. When using the retained card, discard the Ace in the play area and return the retained card to your hand.
+- **Aces** | *Familiar*: Retain a card until you wish to use it. Place one of the Aces and any card from your hand face-up in the play area. Discard the other Ace at the end of your turn. The retained card can stay there indefinitely. To use the retained card, discard the Ace in the play area and return the retained card to your hand.
 - **2’s** | *Summon*: Draw two cards.
 - **3’s** | *Decant*: Use any one card in your hand to buy a card from the Parade at 150% value. Color restrictions for the purchasing card do not apply. Discard the card as you would when you normally buy cards.
 <!-- TODO Change 3's Power -->
