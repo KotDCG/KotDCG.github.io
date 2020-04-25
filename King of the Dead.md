@@ -80,11 +80,11 @@ _Note: The Parade restocks at the end of a round. A player at the end of the rou
 
 ### Jokers
 
-When a single Joker appears in a Parade, the First player must take that Joker and put it on top of their draw pile. If a second Joker shows up in a Parade, the second player in the round must take the Joker and place it on top of their draw pile, if 3 or 4 Jokers, player 3 then 4 does the same.
+When a single Joker appears in a Parade, the First player must take that Joker and put it on top of their draw pile. If a second Joker shows up in a Parade, the second player in the round must take the Joker and place it on top of their draw pile, if 3 or 4 Jokers, player 3 then 4 does the same. Fill any Jokers taken from The Parade with a new card from The Gate.
 
-If a Joker would be discarded, the player must remove the top card from their draw pile and put it in The Well, then place the Joker in the discard pile of the player to their left.
+If a Joker would be discarded at any point during a player's turn, that player must remove the top card from their draw pile and banish it to The Well. Then, place the Joker in the discard pile of the player to their left.
 
-*Jokers are meddlesome souls which cannot be played on their own. They could however, be leveraged to your advantage (see Joker Powers).*
+*Jokers are meddlesome demons which cannot be played on their own. They could however, be leveraged to your advantage (see: Joker Powers).*
 
 ### Card Abilities
 
