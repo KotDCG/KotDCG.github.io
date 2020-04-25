@@ -62,7 +62,9 @@ The top card of The Well can be used to complete a run of 3 cards. If the card o
 
 ### Buying Cards
 
-Players can combine any number of cards of a certain color 2-10 to buy cards from the Parade. Purchased cards go into the player’s discard pile. Red cards can buy black cards, and black cards can buy red. Total the amount from the played number cards to purchase a Parade card.
+Players can combine any number of same-colored numbered cards (2-10) to buy cards from the Parade. Purchased cards go into the player’s discard pile. Red cards buy black cards, and black cards buy red. Total the amount from the played number cards to purchase a Parade card.
+
+Any number of cards can be purchased on a turn, however, a buying card’s value cannot be split to buy multiple cards. Cards from the Parade are purchased one at a time, and cards played to purchase that card are discarded before buying more cards. Any remaining balance does not hold over to the new transaction.
 
 <!-- ? Should Ace just duplicate? Reducing complexity may not make it OP -->
 An Ace can duplicate any other number card when using to buy with its value reduced by -1. For example, duplicating a 2 will be a value of 1, duplicating a 10 would value the Ace at 9.
@@ -74,9 +76,7 @@ An Ace can duplicate any other number card when using to buy with its value redu
 - Royal cards cost 10.
 - The Newcomer costs 7 - buying it is a gamble! Any cards used for purchasing from the Parade are discarded to the player’s card immediately.
 
-Any number of cards can be purchased on a turn, however, a card’s value cannot be split to buy multiple cards. Cards from the Parade are purchased one at a time, and cards played to purchase that card are discarded before buying the next. Any remaining balance does not hold over.
-
-_Note: The Parade restocks at the end of a round. It may happen that a player at the end of the round has no cards to buy. Sorry._
+_Note: The Parade restocks at the end of a round. A player at the end of the round might have no cards to buy. Sorry._
 
 ### Jokers
 
