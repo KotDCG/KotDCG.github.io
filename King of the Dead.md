@@ -104,7 +104,7 @@ Cards can have other abilities when combined and played.
 - Red & Black Queen | Liturgy+: Send any card from your hand or discard to The Well. Draw three cards.
 - Red Kings | Emendate: Shuffle The Well face-down, then draw two cards. Return The Well to it's spot face-up.
 - Black Kings | Sepulcher: Swap any card in your discard with the top card of The Well.
-- Red & Black King | Disinter+: Take the card off of the top of The Well and place it in your hand.
+- Red & Black King | Disinter+: Take any card in The Well and place it in your hand.
 
 #### Three/Four of a kind (Deity Powers)
 
@@ -143,7 +143,6 @@ Move the "first player" clockwise and begin a new round.
 Tally the total from the face-down score. In the event of a tie, the player with fewer scored cards wins. If still tied, perform a seance and ask the dead who won.
 
 <!-- TODO Clarification: If Single Jack to draw card results is discarding a Joker, Joker discard effect still occurs -->
-<!-- TODO Black & Red King | Disinter+: Seek The Well take one card -->
 <!-- TODO Change 3's Power -->
 <!-- TODO Change 7's Power -->
 <!-- TODO Change 8's Power -->
