@@ -8,9 +8,9 @@ A deck of standard of 54 (52 + Jokers - aka French) is needed for 2 players. Two
 
 ## Objective
 
-Score the most points by the end of three Parade shuffles. Points are totaled from scored (face-down) cards.
+Be the player with the most points at the end of the game. Points are totaled from cards scored (see: Scoring Points).
 
-_Note: Cards are distinguished by color and number. Suit does not matter._
+Cards are distinguished by color and number. Suit does not matter.
 
 ## Setup
 
