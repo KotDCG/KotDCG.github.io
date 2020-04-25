@@ -12,6 +12,13 @@ Be the player with the most points at the end of the game. Points are totaled fr
 
 Cards are distinguished by color and number. Suit does not matter.
 
+## Glossary of Terms
+
+- **The Parade**: The row of cards which players can buy.
+- **The Gate**: The deck of cards which fills The Parade.
+- **The Gate**: The discard pile for The Parade, as well as cards banished from players hands.
+- **Run**: Any ordered sequence of three numbered cards from lowest to highest.
+
 ## Setup
 
 1. **Deal starting cards**. Each person starts with Red Ace, 2, 3, 4 and Black A, 2, 3, 4. ( If playing with 3 players, deal a fourth player and set aside. )
