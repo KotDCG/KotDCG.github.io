@@ -115,8 +115,8 @@ Cards can yield abilities when played together. Unless stated otherwise, keep pl
 - **Red Jacks** | *Scry*: Look at the next 4 cards in your draw pile. Discard any. Put back on top the draw pile in the same order.
 - **Black Jacks** | *Foretell*: Look at the top 3 cards of your draw pile. You may discard 1. Put remaining cards back on top of your draw pile in any order you choose.
 - **Red & Black Jack** | *Corrupt+*: Look at the top three cards of your draw pile. Discard 1. Put the rest in your hand.
-- **Red Queens** | *Bestir*: Send any card from your draw pile to the well. Re-shuffle. Draw a card. (Aces are wild) <!-- TODO Red Queens need to be more powerful -->
-- **Black Queens** | Send any card from your discard to the well. You may buy a card of the same value or less. Color restrictions do not apply. (Aces count as 1).
+- **Red Queens** | *Bestir*: Send any card from your draw pile to the well. Re-shuffle. Draw two cards. (Aces are wild) <!-- TODO Red Queens need to be more powerful -->
+- **Black Queens** | *Decant*: Send any card from your discard to the well. You may buy a card of the same value or less. Color restrictions do not apply. (Aces count as 1).
 - **Red & Black Queen** | *Liturgy+*: Send any card from your hand or discard to The Well. Draw three cards.
 - **Red Kings** | *Emendate*: Shuffle The Well face-down, then draw two cards. Return The Well to it's spot face-up.
 - **Black Kings** | *Sepulcher*: Swap any card in your discard with the top card of The Well.
@@ -138,8 +138,8 @@ Any Joker plus:
 
 - **Ace** | *Cipher*: Nothing. Discard the Ace and the Joker.
 - **Jack** | *Pillage*: Choose a player. Take one card of your choice from their discard, or two cards off of the top of their draw pile. Put the card(s) in your hand. Place the Joker in their discard pile.
-- **Queen** | All other players, in clockwise order, must discard a card of their choosing from their hand to The Well. Then, Pick one player. That player must must send a card of their choice from their discard to the well. Place the Joker in their discard pile.
-- **King** |  Select any card in The Well. Put that card and the Joker in discard pile of another player.
+- **Queen** | *Void*: All other players, in clockwise order, must discard a card of their choosing from their hand to The Well. Then, Pick one player. That player must must send a card of their choice from their discard to the well. Place the Joker in their discard pile.
+- **King** | *Encumber*: Select any card in The Well. Put that card and the Joker in discard pile of another player.
 - **Another Joker** | *Devilry*: Pick two players. They swap hands. Place one Joker in each of their discard piles.
 
 ### End of Round
