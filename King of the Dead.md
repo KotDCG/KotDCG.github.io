@@ -4,7 +4,7 @@ _Set Collection via Deck-Building, utilizing a deck of 54 cards. 2-4 players._
 
 ## Materials
 
-A deck of standard deck of 54 (52 + Jokers - aka French) is needed for 2 players. Two decks are needed for 3-4 players. A deck without Jokers could be used for a simpler game.
+A deck of standard of 54 (52 + Jokers - aka French) is needed for 2 players. Two decks are needed for 3-4 players. A deck without Jokers could be used for a simpler game.
 
 ## Objective
 
@@ -14,8 +14,8 @@ _Note: Cards are distinguished by color and number. Suit does not matter._
 
 ## Setup
 
-1. Deal starting cards. Each person starts with Red Ace, 2, 3, 4 and Black A, 2, 3, 4. ( If playing with 3 players, deal a fourth player deck and set aside. )
-2. Build the Parade. The Parade is the row of cards the player can buy to add to their deck. Shuffle the remaining cards. Set the cards near the middle of the table - this is referred to as the Gate. Deal out 1 face down card (The Newcomer) next to the deck and 4 face up cards next to the facedown card. This will be the Parade: a row of cards which players can buy. At the end of the Parade, designate an area as a public discard. This is known as The Well.
+1. Deal starting cards. Each person starts with Red Ace, 2, 3, 4 and Black A, 2, 3, 4. ( If playing with 3 players, deal a fourth player and set aside. )
+2. Build the Parade. The Parade is the row of cards which the player can buy to add to their personal deck. Shuffle the remaining cards. Set the cards near the middle of the table - this is referred to as the Gate. Deal out 1 face down card (The Newcomer) next to The Gate. Next, add 2 face-up cards next to the facedown card per player. This will be The Parade. At the end of the Parade, designate an area as a public discard pile. This is known as The Well.
 
    *Example:*
 
@@ -23,12 +23,12 @@ _Note: Cards are distinguished by color and number. Suit does not matter._
    [ Gate ] [ Face down ] [ Face up ] [ Face up ] [ Face up ] [ Face up ] [ Well ]
    ```
 
-3. Set up play areas. Each player sets up their play area by shuffling their starting cards and drawing 5. Each player should designate an area for their personal discard.
+3. Set up play areas. Each player sets up their play area by shuffling their starting cards and drawing 5. Place the remaning cards face-down in a draw pile, and designate a place for a personal discard.
 4. Determine first player.
 
 ## Gameplay
 
-The game is played in rounds, each player taking a turn and moving clockwise from the first player until all players have taken a turn. At the end of each round, the Parade marches (See: End of Round) and first player shifts clockwise. It may be a good idea to indicate who is the first player of the round with some type of token.
+The game is played in rounds. During a round, each player taking a turn and moving clockwise from the first player until all players have taken a turn. At the end of each round, the Parade marches (See: End of Round) and first player shifts clockwise. It may be a good idea to indicate who is the first player of the round with some type of token.
 
 ### Player Turn
 
