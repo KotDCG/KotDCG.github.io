@@ -52,7 +52,7 @@ Players will score points by completing a run (sequence) of 3 numbered cards (no
 
 #### Special Rule: Wild Aces
 
-A single Ace can count as a wild in a run provided they are the same color, replacing any card except the highest card. Aces can serve as any color. For example, in the run 2 3 4, Ace could replace 2 or 3 but not 4. An Ace could also serve as a number below 2 in the run A 2 3. It cannot play the role of a card above 10. Each run can only contain one Ace.
+A single Ace can count as a wild in a run, replacing any card except the highest card. Aces can serve as any color. For example, in the run 2 3 4, Ace could replace 2 or 3 but not 4. An Ace could also serve as a number below 2 in the run A 2 3. It cannot play the role of a card above 10. Each run can only contain one Ace.
 
 #### Special Rule: Playing off of The Well
 
