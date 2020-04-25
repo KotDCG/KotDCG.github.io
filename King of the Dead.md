@@ -109,10 +109,12 @@ Cards can have other abilities when combined and played.
 - [Three]/[Four] Queens | Consecrate: Send up to [three cards]/[four cards] from your hand or discard to The Well and draw that many cards from your draw pile.
 - [Three]/[Four] Kings | Exhume: Take [any 2 card]/[any three cards] from The Well and put it in your hand.
 
-### Joker Powers - Any Joker plus
+### Joker Powers
+
+Any Joker plus:
 
 - Ace | Cipher: Nothing. Discard the Ace and the Joker.
-- Jack | Pillage: Choose a player. Take one card of your choice from their discard, or two cards off of the top of their draw pile. Place the Joker in their discard pile.
+- Jack | Pillage: Choose a player. Take one card of your choice from their discard, or two cards off of the top of their draw pile. Put the card(s) in your hand. Place the Joker in their discard pile.
 - Queen | All other players, in clockwise order, must discard a card of their choosing from their hand to The Well. Then, Pick one player. That player must must send a card of their choice from their discard to the well. Place the Joker in their discard pile.
 - King |  Select any card in The Well. Put that card and the Joker in discard pile of another player.
 - Another Joker | Devilry: Pick two players. They swap hands. Place one Joker in each of their discard piles.
@@ -135,7 +137,6 @@ Move the first player clockwise and begin a new round.
 
 Tally the total from the face-down score. In the event of a tie, the player with fewer scored cards wins. If still tied, perform a seance and ask the dead who won.
 
-<!-- TODO Joker + Jack -> add card stolen card **to hand** -->
 <!-- TODO Joker reshuffles draw pile if empty-->
 <!-- TODO End of round, # of cards that falls into well = # of players -->
 <!-- TODO Clarification: If Single Jack to draw card results is discarding a Joker, Joker discard effect still occurs -->
