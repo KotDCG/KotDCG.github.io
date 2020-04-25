@@ -124,7 +124,9 @@ Any Joker plus:
 
 ### End of Round
 
-Move the card nearest The Well into the well. Flip up The Newcomer face-up. Count the remaining cards in The Gate to make sure there are enough to fill the missing cards from the Parade. If so, move the cards down towards The Well and draw from The Gate until there are 4 face-up cards and 1 new face-down as The Newcomer.
+At the end of the round, cards from The Parade fall into The Well. If two players, move two cards into The Well, if three players, three, or if four, then four.
+
+Flip up The Newcomer face-up. Count the remaining cards in The Gate to make sure there are enough to fill the missing cards from the Parade. If so, move the cards down towards The Well and draw from The Gate until there are 4 face-up cards and 1 new face-down as The Newcomer.
 
 If there are not enough cards to refill the empty spaces, fill what you can of the face-up cards (but not The Newcomer, yet). Shuffle The Well and place it face-down in the same spot. The Parade has now changed directions - The Well is now The Gate and vice-versa. Shift the cards down towards the new well, fill any face-up cards, then The Newcomer face-down.
 
@@ -140,7 +142,6 @@ Move the first player clockwise and begin a new round.
 
 Tally the total from the face-down score. In the event of a tie, the player with fewer scored cards wins. If still tied, perform a seance and ask the dead who won.
 
-<!-- TODO End of round, # of cards that falls into well = # of players -->
 <!-- TODO Clarification: If Single Jack to draw card results is discarding a Joker, Joker discard effect still occurs -->
 <!-- TODO Red Queens need to be more powerfuls -->
 <!-- TODO 5's buy directly to hand -->
