@@ -82,17 +82,19 @@ _Note: The Parade restocks at the end of a round. A player at the end of the rou
 
 When a single Joker appears in a Parade, the First player must take that Joker and put it on top of their draw pile. If a second Joker shows up in a Parade, the second player in the round must take the Joker and place it on top of their draw pile, if 3 or 4 Jokers, player 3 then 4 does the same. Fill any Jokers taken from The Parade with a new card from The Gate.
 
-If a Joker would be discarded at any point during a player's turn, that player must remove the top card from their draw pile and banish it to The Well. Then, place the Joker in the discard pile of the player to their left.
+If a Joker would be discarded at any point during a player's turn, that player must remove the top card from their draw pile and banish it to The Well. Then, place the Joker in the discard pile of the player to their left. *(This includes the Jack's discard ability - explained in the next section.)*
 
 *Jokers are meddlesome demons which cannot be played on their own. They could however, be leveraged to your advantage (see: Joker Powers).*
 
 ### Card Abilities
 
+Some cards, or combinations of cards, grant special abilities to gain the upper hand.
+
 #### Royal Cards
 
-- Jack | Corrupt: Look at the top two cards of your draw pile. Discard 1. Put the other in your hand. <!-- TODO Clarification: If Single Jack to draw card results is discarding a Joker, Joker discard effect still occurs -->
-- Queen | Liturgy: Send any card from your hand to The Well. Draw two cards.
-- King | Disinter: Take the card off of the top of The Well and place it in your hand.
+- **Jack** | Corrupt: Look at the top two cards of your draw pile. Discard 1. Put the other in your hand.
+- **Queen** | Liturgy: Send any card from your hand to The Well. Draw two cards.
+- **King** | Disinter: Take the card off of the top of The Well and place it in your hand.
 
 #### Two of a Kind powers
 
