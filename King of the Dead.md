@@ -132,9 +132,9 @@ Move the first player clockwise and begin a new round.
 
 ## End of the Game
 
-**For two players**, after The Well has been reshuffled three times and there are no more cards to fill the Parade, everyone takes on more round. Then the game ends.
+**For two players**, after The Well has been reshuffled **three times** and there are no more cards to fill the Parade, everyone takes on more round. Then the game ends.
 
-**For three or four players**, after The Well has been reshuffled once and there are no more cards to fill the Parade, everyone takes on more round. Then the game ends.
+**For three or four players**, after The Well has been reshuffled **twice** and there are no more cards to fill the Parade, everyone takes on more round. Then the game ends.
 
 ## Calculating Score
 
