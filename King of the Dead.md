@@ -98,12 +98,11 @@ Some cards, or combinations of cards, grant special abilities to gain the upper 
 
 #### Two of a Kind powers
 
-Cards can yield abilities when played together.
+Cards can yield abilities when played together. Unless stated otherwise, keep played cards in your play area until the end of the round, then discard.
 
 - **Aces** | *Familiar*: Retain a card until you wish to use it. Place one of the Aces and any card from your hand face-up in the play area. Discard the other Ace at the end of your turn. The retained card can stay there indefinitely. To use the retained card, discard the Ace in the play area and return the retained card to your hand.
 - **2’s** | *Summon*: Draw two cards.
-- **3’s** | *Decant*: Use any one card in your hand to buy a card from the Parade at 150% value. Color restrictions for the purchasing card do not apply. Discard the card as you would when you normally buy cards.
-<!-- TODO Change 3's Power -->
+- **3’s** | *Supplant*: Choose a face-up card in The Parade, then swap that card with a card in your hand.
 - **4’s** | *Clamor*: Draw three cards. All other players draw a card.
 - **5’s** | *Abscond*: Buy any face-up card in the Parade for free and place it in your hand.
 - **6’s**| *Beguile*: Buy the The Newcomer for free.
