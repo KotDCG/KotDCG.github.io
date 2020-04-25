@@ -88,7 +88,7 @@ Cards can have other abilities when combined and played.
 - 2’s | Summon: Draw two cards.
 - 3’s | Decant: Use any one card in your hand to buy a card from the Parade at 150% value. Color restrictions for the purchasing card do not apply. Discard the card as you would when you normally buy cards.
 - 4’s | Clamor: Draw three cards. All other players draw a card.
-- 5’s | Abscond: Buy any face-up card in the Parade for free.
+- 5’s | Abscond: Buy any face-up card in the Parade for free and place it in your hand.
 - 6’s | Beguile: Buy the The Newcomer for free.
 - 7’s | Accede: Discard any number of cards. Draw that many cards.
 - 8’s | Remand: Shuffle your discard pile face-down, then draw two. Return your discard pile face-up.
@@ -97,7 +97,7 @@ Cards can have other abilities when combined and played.
 - Red Jacks | Scry: Look at the next 4 cards in your draw pile. Discard any. Put back on top the draw pile in the same order.
 - Black Jacks | Foretell: Look at the top 3 cards of your draw pile. You may discard 1. Put remaining cards back on top of your draw pile in any order you choose.
 - Red & Black Jack | Corrupt+: Look at the top three cards of your draw pile. Discard 1. Put the rest in your hand.
-- Red Queens | Bestir: Send any card from your draw pile to the well. Re-shuffle. Draw a card. (Aces are wild)
+- Red Queens | Bestir: Send any card from your draw pile to the well. Re-shuffle. Draw a card. (Aces are wild) <!-- TODO Red Queens need to be more powerful -->
 - Black Queens | Send any card from your discard to the well. You may buy a card of the same value or less. Color restrictions do not apply. (Aces count as 1).
 - Red & Black Queen | Liturgy+: Send any card from your hand or discard to The Well. Draw three cards.
 - Red Kings | Emendate: Shuffle The Well face-down, then draw two cards. Return The Well to it's spot face-up.
@@ -141,8 +141,6 @@ Move the "first player" clockwise and begin a new round.
 Tally the total from the face-down score. In the event of a tie, the player with fewer scored cards wins. If still tied, perform a seance and ask the dead who won.
 
 <!-- TODO Clarification: If Single Jack to draw card results is discarding a Joker, Joker discard effect still occurs -->
-<!-- TODO Red Queens need to be more powerfuls -->
-<!-- TODO 5's buy directly to hand -->
 <!-- TODO Aces cost 1 to purchase -->
 <!-- TODO Black & Red King | Disinter+: Seek The Well take one card -->
 <!-- TODO Change 3's Power -->
