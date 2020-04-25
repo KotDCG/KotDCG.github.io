@@ -26,6 +26,8 @@ _Note: Cards are distinguished by color and number. Suit does not matter._
 3. Set up play areas. Each player sets up their play area by shuffling their starting cards and drawing 5. Place the remaining cards face-down in a draw pile, and designate a place for a personal discard.
 4. Determine first player.
 
+<!-- ? Starting draft? -->
+
 ## Gameplay
 
 The game is played in rounds. During a round, each player taking a turn and moving clockwise from the first player until all players have taken a turn. At the end of each round, The Parade marches (See: End of Round) and first player shifts clockwise. It may be useful to find an item to designate the first player.
@@ -47,6 +49,8 @@ A single Ace can count as a wild in a run provided they are the same color, repl
 #### Special Rule: Playing off of The Well
 
 The top card of The Well can be used to complete a run of 3 cards. The card on The Well can be scored.
+
+<!-- ? Powers to play off Parade? -->
 
 ### Buying Cards
 
@@ -78,7 +82,7 @@ If a Joker would be discarded, the player must remove the top card from their dr
 
 #### Royal Cards
 
-- Jack | Corrupt: Look at the top two cards of your draw pile. Discard 1. Put the other in your hand.
+- Jack | Corrupt: Look at the top two cards of your draw pile. Discard 1. Put the other in your hand. <!-- TODO Clarification: If Single Jack to draw card results is discarding a Joker, Joker discard effect still occurs -->
 - Queen | Liturgy: Send any card from your hand to The Well. Draw two cards.
 - King | Disinter: Take the card off of the top of The Well and place it in your hand.
 
@@ -89,11 +93,14 @@ Cards can have other abilities when combined and played.
 - Aces | Familiar: Retain a card until you want to use it. Place one Ace and another card in your hand face up in the play area. Discard the other Ace. When using the retained card, discard the Ace in the play area and return the retained card to your hand.
 - 2’s | Summon: Draw two cards.
 - 3’s | Decant: Use any one card in your hand to buy a card from the Parade at 150% value. Color restrictions for the purchasing card do not apply. Discard the card as you would when you normally buy cards.
+<!-- TODO Change 3's Power -->
 - 4’s | Clamor: Draw three cards. All other players draw a card.
 - 5’s | Abscond: Buy any face-up card in the Parade for free and place it in your hand.
 - 6’s | Beguile: Buy the The Newcomer for free.
 - 7’s | Accede: Discard any number of cards. Draw that many cards.
-- 8’s | Remand: Shuffle your discard pile face-down, then draw two. Return your discard pile face-up.
+<!-- TODO Change 7's Power -->
+- 8’s | Remand: Shuffle your discard pile face-down, then draw two. Return your discard pile face-up.s
+<!-- TODO Change 8's Power -->
 - 9’s | Resurrect: Shuffle your discard into your draw pile. Draw three.
 - 10’s | Damn: Draw any two cards from your draw pile. Shuffle
 - Red Jacks | Scry: Look at the next 4 cards in your draw pile. Discard any. Put back on top the draw pile in the same order.
@@ -141,10 +148,3 @@ Move the "first player" clockwise and begin a new round.
 ## Calculating Score
 
 Tally the total from the face-down score. In the event of a tie, the player with fewer scored cards wins. If still tied, perform a seance and ask the dead who won.
-
-<!-- TODO Clarification: If Single Jack to draw card results is discarding a Joker, Joker discard effect still occurs -->
-<!-- TODO Change 3's Power -->
-<!-- TODO Change 7's Power -->
-<!-- TODO Change 8's Power -->
-<!-- ? Starting draft -->
-<!-- ? Powers to play off Parade -->
