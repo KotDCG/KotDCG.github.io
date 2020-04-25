@@ -56,7 +56,7 @@ A single Ace can count as a wild in a run, replacing any card except the highest
 
 #### Special Rule: Playing off of The Well
 
-The top card of The Well can be used to complete a run of 3 cards. The card on The Well can be scored.
+The top card of The Well can be used to complete a run of 3 cards. If the card on top of The Well is the highest card, score that card by placing it face-down in your score pile.
 
 <!-- ? Powers to play off Parade? -->
 
