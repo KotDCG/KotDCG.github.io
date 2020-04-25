@@ -28,7 +28,7 @@ _Note: Cards are distinguished by color and number. Suit does not matter._
 
 ## Gameplay
 
-The game is played in rounds. During a round, each player taking a turn and moving clockwise from the first player until all players have taken a turn. At the end of each round, the Parade marches (See: End of Round) and first player shifts clockwise. It may be a good idea to indicate who is the first player of the round with some type of token.
+The game is played in rounds. During a round, each player taking a turn and moving clockwise from the first player until all players have taken a turn. At the end of each round, The Parade marches (See: End of Round) and first player shifts clockwise. It may be useful to find an item to designate the first player.
 
 ### Player Turn
 
