@@ -34,7 +34,7 @@ The game is played in rounds. During a round, player takes turns in clockwise or
 
 ### Player Turn
 
-Each turn, the player may play any number of cards from their hand by placing them face up in their play area. All cards which are played are discarded to the player’s personal discard unless otherwise specified. When the player is done playing cards, all remaining cards in their hand go to the discard. The player then draws four more cards and ends their turn. The play move clockwise to the next payer.
+Each turn, play any number of cards from your hand by placing them face up in your play area. When the player is done playing cards, all cards played and remaining cards in your hand go to their discard pile. Then, draw four more cards and end your turn. The player to the left starts their turn.
 
 ### Scoring points
 
