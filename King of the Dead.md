@@ -18,11 +18,12 @@ Cards are distinguished by color and number. Suit does not matter.
 - **The Gate**: The deck of cards which fills The Parade.
 - **The Gate**: The discard pile for The Parade, as well as cards banished from players hands.
 - **Run**: Any ordered sequence of three numbered cards from lowest to highest.
+- **Royals**: Also referred to as "face cards"; Jacks, Queens, and Kings.
 
 ## Setup
 
 1. **Deal starting cards**. Each person starts with Red Ace, 2, 3, 4 and Black A, 2, 3, 4. ( If playing with 3 players, deal a fourth player and set aside. )
-2. **Build the Parade**. The Parade is the row of cards which the player can buy to add to their personal deck. Shuffle the remaining cards. Set the cards near the middle of the table - this is referred to as the Gate. Deal 1 face down card (The Newcomer) next to The Gate. Next, add 2 face-up cards next to the face-down card per player. This will be The Parade. At the end of the Parade, designate an area as a public discard pile. This is known as The Well.
+2. **Build the Parade**. The Parade is the row of cards which the player can buy to add to their personal deck. Shuffle the remaining cards. Set the cards near the middle of the table - this is referred to as the Gate. Deal 1 face-down card (The Newcomer) next to The Gate. Next, add 2 face-up cards next to the face-down card per player. This will be The Parade. At the end of the Parade, designate an area as a public discard pile. This is known as The Well.
 
    *Example - 2 players:*
 
@@ -41,7 +42,7 @@ The game is played in rounds. During a round, player takes turns in clockwise or
 
 ### Player Turn
 
-Each turn, play any number of cards from your hand by placing them face up in your play area. When the player is done playing cards, all cards played and remaining cards in your hand go to their discard pile. Then, draw four more cards and end your turn. The player to the left starts their turn.
+Each turn, play any number of cards from your hand by placing them face-up in your play area. When the player is done playing cards, all cards played and remaining cards in your hand go to their discard pile. Then, draw four more cards and end your turn. The player to the left starts their turn.
 
 ### Scoring points
 
@@ -97,7 +98,7 @@ If a Joker would be discarded, the player must remove the top card from their dr
 
 Cards can have other abilities when combined and played.
 
-- Aces | Familiar: Retain a card until you want to use it. Place one Ace and another card in your hand face up in the play area. Discard the other Ace. When using the retained card, discard the Ace in the play area and return the retained card to your hand.
+- Aces | Familiar: Retain a card until you want to use it. Place one Ace and another card in your hand face-up in the play area. Discard the other Ace. When using the retained card, discard the Ace in the play area and return the retained card to your hand.
 - 2’s | Summon: Draw two cards.
 - 3’s | Decant: Use any one card in your hand to buy a card from the Parade at 150% value. Color restrictions for the purchasing card do not apply. Discard the card as you would when you normally buy cards.
 <!-- TODO Change 3's Power -->
