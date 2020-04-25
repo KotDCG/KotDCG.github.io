@@ -50,15 +50,17 @@ The top card of The Well can be used to complete a run of 3 cards. The card on T
 
 ### Buying Cards
 
-Players can combine any number of cards of a certain color 1-10 to buy cards from the Parade. Purchased cards go into the player’s discard pile. Red cards can buy black cards, and black cards can buy red. Total the amount from the played number cards to purchase a Parade card.
+Players can combine any number of cards of a certain color 2-10 to buy cards from the Parade. Purchased cards go into the player’s discard pile. Red cards can buy black cards, and black cards can buy red. Total the amount from the played number cards to purchase a Parade card.
 
-An Ace can duplicate any other number card when using to buy with its value reduced by -1. For example, duplicating a 2 will be a value of 1 to buy with, duplicating a 10 would value at 9.
+<!-- ? Should Ace just duplicate? Reducing complexity may not make it OP -->
+An Ace can duplicate any other number card when using to buy with its value reduced by -1. For example, duplicating a 2 will be a value of 1, duplicating a 10 would value the Ace at 9.
 
 #### Card Costs
 
+- Aces cost 1
 - Numbered cards cost the same as their number. Example: Player lays down a Black 3 and Black 4 to purchase a Red 7.
 - Royal cards cost 10.
-- The Newcomer costs 8 - buying it is a gamble! Any cards used for purchasing from the Parade are discarded to the player’s card immediately.
+- The Newcomer costs 7 - buying it is a gamble! Any cards used for purchasing from the Parade are discarded to the player’s card immediately.
 
 Any number of cards can be purchased on a turn, however, a card’s value cannot be split to buy multiple cards. Cards from the Parade are purchased one at a time, and cards played to purchase that card are discarded before buying the next. Any remaining balance does not hold over.
 
@@ -141,7 +143,6 @@ Move the "first player" clockwise and begin a new round.
 Tally the total from the face-down score. In the event of a tie, the player with fewer scored cards wins. If still tied, perform a seance and ask the dead who won.
 
 <!-- TODO Clarification: If Single Jack to draw card results is discarding a Joker, Joker discard effect still occurs -->
-<!-- TODO Aces cost 1 to purchase -->
 <!-- TODO Black & Red King | Disinter+: Seek The Well take one card -->
 <!-- TODO Change 3's Power -->
 <!-- TODO Change 7's Power -->
