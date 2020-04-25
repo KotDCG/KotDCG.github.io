@@ -23,7 +23,7 @@ _Note: Cards are distinguished by color and number. Suit does not matter._
    [ Gate ] [ Face down ] [ Face up ] [ Face up ] [ Face up ] [ Face up ] [ Well ]
    ```
 
-3. Set up play areas. Each player sets up their play area by shuffling their starting cards and drawing 5. Place the remaning cards face-down in a draw pile, and designate a place for a personal discard.
+3. Set up play areas. Each player sets up their play area by shuffling their starting cards and drawing 5. Place the remaining cards face-down in a draw pile, and designate a place for a personal discard.
 4. Determine first player.
 
 ## Gameplay
@@ -36,7 +36,9 @@ Each turn, the player may play any number of cards from their hand by placing th
 
 ### Scoring points
 
-Players will score points by completing a run (sequence) of 3 numbered cards (not royals or Joker). The run must be of the same color and start from lowest to highest. The highest card of the run is scored, placing it face-down in the player’s play area. The other cards of the run go into that player’s discard. There is no benefit to playing a longer run than required. Note: Playing a run is optional. It may be a bad idea to score runs with your starting deck - you’ll need those to get higher value cards!
+Players will score points by completing a run (sequence) of 3 numbered cards (not royals or Joker). The run must be of the same color and start from lowest to highest. The highest card of the run is scored, placing it face-down in the player’s play area. The other cards of the run go into that player’s discard. There is no benefit to playing a longer run than required. Note: Playing a run is optional.
+
+*It may be a bad idea to score runs with your starting deck at the beginning of the game - you’ll need those to get higher value cards!*
 
 #### Special Rule: Aces
 
