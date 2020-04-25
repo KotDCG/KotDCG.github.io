@@ -14,23 +14,23 @@ Cards are distinguished by color and number. Suit does not matter.
 
 ## Setup
 
-1. Deal starting cards. Each person starts with Red Ace, 2, 3, 4 and Black A, 2, 3, 4. ( If playing with 3 players, deal a fourth player and set aside. )
-2. Build the Parade. The Parade is the row of cards which the player can buy to add to their personal deck. Shuffle the remaining cards. Set the cards near the middle of the table - this is referred to as the Gate. Deal out 1 face down card (The Newcomer) next to The Gate. Next, add 2 face-up cards next to the facedown card per player. This will be The Parade. At the end of the Parade, designate an area as a public discard pile. This is known as The Well.
+1. **Deal starting cards**. Each person starts with Red Ace, 2, 3, 4 and Black A, 2, 3, 4. ( If playing with 3 players, deal a fourth player and set aside. )
+2. **Build the Parade**. The Parade is the row of cards which the player can buy to add to their personal deck. Shuffle the remaining cards. Set the cards near the middle of the table - this is referred to as the Gate. Deal 1 face down card (The Newcomer) next to The Gate. Next, add 2 face-up cards next to the face-down card per player. This will be The Parade. At the end of the Parade, designate an area as a public discard pile. This is known as The Well.
 
-   *Example:*
+   *Example - 2 players:*
 
    ```-
    [ Gate ] [ Face down ] [ Face up ] [ Face up ] [ Face up ] [ Face up ] [ Well ]
    ```
 
-3. Set up play areas. Each player sets up their play area by shuffling their starting cards and drawing 5. Place the remaining cards face-down in a draw pile, and designate a place for a personal discard.
-4. Determine first player.
+3. **Set up play areas**. Each player sets up their play area by shuffling their starting cards and drawing 5. Place the remaining cards face-down in a draw pile, and designate a place for a personal discard pile.
+4. **Determine first player**.
 
 <!-- ? Starting draft? -->
 
 ## Gameplay
 
-The game is played in rounds. During a round, each player taking a turn and moving clockwise from the first player until all players have taken a turn. At the end of each round, The Parade marches (See: End of Round) and first player shifts clockwise. It may be useful to find an item to designate the first player.
+The game is played in rounds. During a round, player takes turns in clockwise order from the first player. At the end of each round, The Parade marches (See: End of Round) and first player shifts clockwise. It may be helpful to find an item to designate the first player.
 
 ### Player Turn
 
