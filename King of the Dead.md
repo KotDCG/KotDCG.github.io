@@ -126,11 +126,9 @@ Any Joker plus:
 
 At the end of the round, cards from The Parade fall into The Well. If two players, move two cards into The Well, if three players, three, or if four, then four.
 
-Flip up The Newcomer face-up. Count the remaining cards in The Gate to make sure there are enough to fill the missing cards from the Parade. If so, move the cards down towards The Well and draw from The Gate until there are 4 face-up cards and 1 new face-down as The Newcomer.
+Flip up The Newcomer face-up. Refill The Parade from The Gate. When The Gate has been depleted, shuffle The Well and place it face-down in the gate.
 
-If there are not enough cards to refill the empty spaces, fill what you can of the face-up cards (but not The Newcomer, yet). Shuffle The Well and place it face-down in the same spot. The Parade has now changed directions - The Well is now The Gate and vice-versa. Shift the cards down towards the new well, fill any face-up cards, then The Newcomer face-down.
-
-Move the first player clockwise and begin a new round.
+Move the "first player" clockwise and begin a new round.
 
 ## End of the Game
 
