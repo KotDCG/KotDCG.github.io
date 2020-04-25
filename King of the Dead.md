@@ -127,13 +127,14 @@ Move the first player clockwise and begin a new round.
 
 ## End of the Game
 
-After The Well has been reshuffled twice and there are no more cards to fill the Parade, everyone takes on more round. Then the game ends.
+**For two players**, after The Well has been reshuffled three times and there are no more cards to fill the Parade, everyone takes on more round. Then the game ends.
+
+**For three or four players**, after The Well has been reshuffled once and there are no more cards to fill the Parade, everyone takes on more round. Then the game ends.
 
 ## Calculating Score
 
 Tally the total from the face-down score. In the event of a tie, the player with fewer scored cards wins. If still tied, perform a seance and ask the dead who won.
 
-<!-- TODO 3-4 player games should have only 2 Gate/Well Reshuffles to shorten the game. -->
 <!-- TODO Joker + Jack -> add card stolen card **to hand** -->
 <!-- TODO Joker reshuffles draw pile if empty-->
 <!-- TODO End of round, # of cards that falls into well = # of players -->
