@@ -106,6 +106,8 @@ Cards can have other abilities when combined and played.
 
 #### Three/Four of a kind (Deity Powers)
 
+<!-- ? These have been mostly unused, consider removing. -->
+
 - [Three]/[Four] Jacks | Manifest: Search your draw pile and select [any 2 cards]/[any three cards] to put into your hand. Reshuffle.
 - [Three]/[Four] Queens | Consecrate: Send up to [three cards]/[four cards] from your hand or discard to The Well and draw that many cards from your draw pile.
 - [Three]/[Four] Kings | Exhume: Take [any 2 card]/[any three cards] from The Well and put it in your hand.
