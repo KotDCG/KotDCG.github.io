@@ -66,22 +66,23 @@ _Note: The Parade restocks at the end of a round. It may happen that a player at
 
 ### Jokers
 
-Jokers are cards that cannot be played on their own. When a single Joker appears in a Parade, the First player must take that Joker and put it on top of their draw pile. If a second Joker shows up in a Parade, the second player in the round must take the Joker and place it on top of their draw pile, if 3 or 4 Jokers, player 3 then 4 does the same.
+When a single Joker appears in a Parade, the First player must take that Joker and put it on top of their draw pile. If a second Joker shows up in a Parade, the second player in the round must take the Joker and place it on top of their draw pile, if 3 or 4 Jokers, player 3 then 4 does the same.
 
-<!-- TODO joker moves clockwise -->
-If a Joker would be discarded, the player must remove the top card from their draw pile and put it in The Well, then the Joker .
+If a Joker would be discarded, the player must remove the top card from their draw pile and put it in The Well, then place the Joker in the discard pile of the player to their left.
 
-#### Other card abilities (X of a Kind)
+*Jokers are meddlesome souls which cannot be played on their own. They could however, be leveraged to your advantage (see Joker Powers).*
 
-Cards can have other abilities when combined and played.
+### Card Abilities
 
-### Royal Cards
+#### Royal Cards
 
 - Jack | Corrupt: Look at the top two cards of your draw pile. Discard 1. Put the other in your hand.
 - Queen | Liturgy: Send any card from your hand to The Well. Draw two cards.
 - King | Disinter: Take the card off of the top of The Well and place it in your hand.
 
-### Two of a Kind powers
+#### Two of a Kind powers
+
+Cards can have other abilities when combined and played.
 
 - Aces | Familiar: Retain a card until you want to use it. Place one Ace and another card in your hand face up in the play area. Discard the other Ace. When using the retained card, discard the Ace in the play area and return the retained card to your hand.
 - 2’s | Summon: Draw two cards.
@@ -103,13 +104,13 @@ Cards can have other abilities when combined and played.
 - Black Kings | Sepulcher: Swap any card in your discard with the top card of The Well.
 - Red & Black King | Disinter+: Take the card off of the top of The Well and place it in your hand.
 
-### Three/Four of a kind (Deity Powers)
+#### Three/Four of a kind (Deity Powers)
 
 - [Three]/[Four] Jacks | Manifest: Search your draw pile and select [any 2 cards]/[any three cards] to put into your hand. Reshuffle.
 - [Three]/[Four] Queens | Consecrate: Send up to [three cards]/[four cards] from your hand or discard to The Well and draw that many cards from your draw pile.
 - [Three]/[Four] Kings | Exhume: Take [any 2 card]/[any three cards] from The Well and put it in your hand.
 
-### Joker Powers
+#### Joker Powers
 
 Any Joker plus:
 
@@ -137,7 +138,6 @@ Move the first player clockwise and begin a new round.
 
 Tally the total from the face-down score. In the event of a tie, the player with fewer scored cards wins. If still tied, perform a seance and ask the dead who won.
 
-<!-- TODO Joker reshuffles draw pile if empty-->
 <!-- TODO End of round, # of cards that falls into well = # of players -->
 <!-- TODO Clarification: If Single Jack to draw card results is discarding a Joker, Joker discard effect still occurs -->
 <!-- TODO Red Queens need to be more powerfuls -->
