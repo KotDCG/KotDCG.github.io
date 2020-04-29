@@ -161,4 +161,5 @@ Move the "first player" clockwise and begin a new round.
 Tally the total from the face-down score. In the event of a tie, the player with fewer scored cards wins. If still tied, perform a seance and ask the dead who won.
 
 ___
-*Created from isolation 😷by [@joesadoski](https://twitter.com/joesadoski). 👏🏻 Wash your hands!*
+
+##### Created from isolation 😷by [@joesadoski](https://twitter.com/joesadoski). 👏🏻 Wash your hands!
