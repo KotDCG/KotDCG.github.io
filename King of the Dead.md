@@ -116,10 +116,10 @@ Cards can yield abilities when played together. Unless stated otherwise, keep pl
 - **Black Jacks** | *Foretell*: Look at the top 3 cards of your draw pile. You may discard 1. Put remaining cards back on top of your draw pile in any order you choose.
 - **Red & Black Jack** | *Corrupt+*: Look at the top three cards of your draw pile. Discard 1. Put the rest in your hand.
 - **Red Queens** | *Bestir*: Send any card from your draw pile to the well. Re-shuffle. Draw two cards. (Aces are wild) <!-- TODO Red Queens need to be more powerful -->
-- **Black Queens** | *Decant*: Send any card from your discard to the well. You may buy a card of the same value or less. Color restrictions do not apply. (Aces count as 1).
+- **Black Queens** | *Decant*: Send any card from your discard pile to the well. You may buy a card of the same value or less and put it in your hand. Color restrictions do not apply. (Aces count as 1).
 - **Red & Black Queen** | *Liturgy+*: Send any card from your hand or discard to The Well. Draw three cards.
-- **Red Kings** | *Emendate*: Shuffle The Well face-down, then draw two cards. Return The Well to it's spot face-up.
-- **Black Kings** | *Sepulcher*: Swap any card in your discard with the top card of The Well.
+- **Red Kings** | *Emendate*: Shuffle The Well face-down, then draw two cards. Return The Well to it's spot face-up. <!-- TODO Change King power -->
+- **Black Kings** | *Sepulcher*: Swap any two cards in your discard with the top card of The Well.
 - **Red & Black King** | *Disinter+*: Take any card in The Well and place it in your hand.
 
 #### Three/Four of a kind (Deity Powers)
