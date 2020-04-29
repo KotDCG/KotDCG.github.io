@@ -92,43 +92,43 @@ Some cards, or combinations of cards, grant special abilities to gain the upper 
 
 #### Royal Cards
 
-- **Jack** | Corrupt: Look at the top two cards of your draw pile. Discard 1. Put the other in your hand.
-- **Queen** | Liturgy: Send any card from your hand to The Well. Draw two cards.
-- **King** | Disinter: Take the card off of the top of The Well and place it in your hand.
+- **Jack** ~ Corrupt: Look at the top two cards of your draw pile. Discard 1. Put the other in your hand.
+- **Queen** ~ Liturgy: Send any card from your hand to The Well. Draw two cards.
+- **King** ~ Disinter: Take the card off of the top of The Well and place it in your hand.
 
 #### Two of a Kind powers
 
 Cards can yield abilities when played together. Unless stated otherwise, keep played cards in your play area until the end of the round, then discard.
 
-- **Aces** | *Familiar*: Retain a card until you wish to use it. Place one of the Aces and any card from your hand face-up in the play area. Discard the other Ace at the end of your turn. The retained card can stay there indefinitely. To use the retained card, discard the Ace in the play area and return the retained card to your hand.
-- **2’s** | *Summon*: Draw two cards.
-- **3’s** | *Supplant*: Choose a face-up card in The Parade, then swap that card with a card in your hand.
-- **4’s** | *Clamor*: Draw three cards. All other players draw a card.
-- **5’s** | *Abscond*: Buy any face-up card in the Parade for free and place it in your hand.
-- **6’s**| *Beguile*: Buy the The Newcomer for free.
-- **7’s** | *Accede*: Discard any number of cards. Draw that many cards.
+- **Aces** ~ *Familiar*: Retain a card until you wish to use it. Place one of the Aces and any card from your hand face-up in the play area. Discard the other Ace at the end of your turn. The retained card can stay there indefinitely. To use the retained card, discard the Ace in the play area and return the retained card to your hand.
+- **2’s** ~ *Summon*: Draw two cards.
+- **3’s** ~ *Supplant*: Choose a face-up card in The Parade, then swap that card with a card in your hand.
+- **4’s** ~ *Clamor*: Draw three cards. All other players draw a card.
+- **5’s** ~ *Abscond*: Buy any face-up card in the Parade for free and place it in your hand.
+- **6’s**~ *Beguile*: Buy the The Newcomer for free.
+- **7’s** ~ *Accede*: Discard any number of cards. Draw that many cards.
 <!-- TODO Change 7's Power -->
-- **8’s** | *Remand*: Shuffle your discard pile face-down, then draw two. Return your discard pile face-up.s
+- **8’s** ~ *Remand*: Shuffle your discard pile face-down, then draw two. Return your discard pile face-up.s
 <!-- TODO Change 8's Power -->
-- **9’s** | *Resurrect*: Shuffle your discard into your draw pile. Draw three.
-- **10’s** | *Damn*: Draw any two cards from your draw pile. Shuffle
-- **Red Jacks** | *Scry*: Look at the next 4 cards in your draw pile. Discard any. Put back on top the draw pile in the same order.
-- **Black Jacks** | *Foretell*: Look at the top 3 cards of your draw pile. You may discard 1. Put remaining cards back on top of your draw pile in any order you choose.
-- **Red & Black Jack** | *Corrupt+*: Look at the top three cards of your draw pile. Discard 1. Put the rest in your hand.
-- **Red Queens** | *Bestir*: Send any card from your draw pile to the well. Re-shuffle. Draw two cards. (Aces are wild) <!-- TODO Red Queens need to be more powerful -->
-- **Black Queens** | *Decant*: Send any card from your discard pile to the well. You may buy a card of the same value or less and put it in your hand. Color restrictions do not apply. (Aces count as 1).
-- **Red & Black Queen** | *Liturgy+*: Send any card from your hand or discard to The Well. Draw three cards.
-- **Red Kings** | *Emendate*: Shuffle The Well face-down, then draw two cards. Return The Well to it's spot face-up. <!-- TODO Change King power -->
-- **Black Kings** | *Sepulcher*: Swap any two cards in your discard with the top card of The Well.
-- **Red & Black King** | *Disinter+*: Take any card in The Well and place it in your hand.
+- **9’s** ~ *Resurrect*: Shuffle your discard into your draw pile. Draw three.
+- **10’s** ~ *Damn*: Draw any two cards from your draw pile. Shuffle
+- **Red Jacks** ~ *Scry*: Look at the next 4 cards in your draw pile. Discard any. Put back on top the draw pile in the same order.
+- **Black Jacks** ~ *Foretell*: Look at the top 3 cards of your draw pile. You may discard 1. Put remaining cards back on top of your draw pile in any order you choose.
+- **Red & Black Jack** ~ *Corrupt+*: Look at the top three cards of your draw pile. Discard 1. Put the rest in your hand.
+- **Red Queens** ~ *Bestir*: Send any card from your draw pile to the well. Re-shuffle. Draw two cards. (Aces are wild) <!-- TODO Red Queens need to be more powerful -->
+- **Black Queens** ~ *Decant*: Send any card from your discard pile to the well. You may buy a card of the same value or less and put it in your hand. Color restrictions do not apply. (Aces count as 1).
+- **Red & Black Queen** ~ *Liturgy+*: Send any card from your hand or discard to The Well. Draw three cards.
+- **Red Kings** ~ *Emendate*: Shuffle The Well face-down, then draw two cards. Return The Well to it's spot face-up. <!-- TODO Change King power -->
+- **Black Kings** ~ *Sepulcher*: Swap any two cards in your discard with the top card of The Well.
+- **Red & Black King** ~ *Disinter+*: Take any card in The Well and place it in your hand.
 
 #### Three/Four of a kind (Deity Powers)
 
 <!-- ? These have been mostly unused, consider removing. -->
 
-- [*Three*]/[*Four*] **Jacks** | Manifest: Search your draw pile and select [*any 2 cards*]/[*any three cards*] to put into your hand. Reshuffle.
-- [*Three*]/[*Four*] **Queens** | Consecrate: Send up to [*three cards*]/[*four cards*] from your hand or discard to The Well and draw that many cards from your draw pile.
-- [*Three*]/[*Four*] **Kings** | Exhume: Take [*any 2 cards*]/[*any three cards*] from The Well and put it in your hand.
+- [*Three*]/[*Four*] **Jacks** ~ Manifest: Search your draw pile and select [*any 2 cards*]/[*any three cards*] to put into your hand. Reshuffle.
+- [*Three*]/[*Four*] **Queens** ~ Consecrate: Send up to [*three cards*]/[*four cards*] from your hand or discard to The Well and draw that many cards from your draw pile.
+- [*Three*]/[*Four*] **Kings** ~ Exhume: Take [*any 2 cards*]/[*any three cards*] from The Well and put it in your hand.
 
 #### Joker Powers
 
@@ -136,11 +136,11 @@ The Jokers want to sow discord. Given the right companion, this can be used to y
 
 Any Joker plus:
 
-- **Ace** | *Cipher*: Nothing. Discard the Ace and the Joker.
-- **Jack** | *Pillage*: Choose a player. Take one card of your choice from their discard, or two cards off of the top of their draw pile. Put the card(s) in your hand. Place the Joker in their discard pile.
-- **Queen** | *Void*: All other players, in clockwise order, must discard a card of their choosing from their hand to The Well. Then, Pick one player. That player must must send a card of their choice from their discard to the well. Place the Joker in their discard pile.
-- **King** | *Encumber*: Select any card in The Well. Put that card and the Joker in discard pile of another player.
-- **Another Joker** | *Devilry*: Pick two players. They swap hands. Place one Joker in each of their discard piles.
+- **Ace** ~ *Cipher*: Nothing. Discard the Ace and the Joker.
+- **Jack** ~ *Pillage*: Choose a player. Take one card of your choice from their discard, or two cards off of the top of their draw pile. Put the card(s) in your hand. Place the Joker in their discard pile.
+- **Queen** ~ *Void*: All other players, in clockwise order, must discard a card of their choosing from their hand to The Well. Then, Pick one player. That player must must send a card of their choice from their discard to the well. Place the Joker in their discard pile.
+- **King** ~ *Encumber*: Select any card in The Well. Put that card and the Joker in discard pile of another player.
+- **Another Joker** ~ *Devilry*: Pick two players. They swap hands. Place one Joker in each of their discard piles.
 
 ### End of Round
 
