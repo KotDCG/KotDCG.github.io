@@ -16,7 +16,7 @@ Cards are distinguished by color and number. Suit does not matter.
 
 - **The Parade**: The row of cards which players can buy.
 - **The Gate**: The deck of cards which fills The Parade.
-- **The Gate**: The discard pile for The Parade, as well as cards banished from players hands.
+- **The Well**: The discard pile for The Parade, as well as cards banished from players hands.
 - **Run**: Any ordered sequence of three numbered cards from lowest to highest.
 - **Royals**: Also referred to as "face cards"; Jacks, Queens, and Kings.
 
