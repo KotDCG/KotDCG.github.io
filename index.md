@@ -162,4 +162,5 @@ Tally the total from the face-down score. In the event of a tie, the player with
 
 ___
 
-##### Created from isolation 😷by [@joesadoski](https://twitter.com/joesadoski). 👏🏻 Wash your hands!
+
+##### Created from isolation 😷by [@joesadoski](https://twitter.com/joesadoski). 👏🏻 Wash your hands! Project to be continued by Kyle Walterbach 
